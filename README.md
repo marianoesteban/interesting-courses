@@ -24,3 +24,8 @@ Some interesting computer science courses with video lectures.
     - [Lecture Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ZWyJMdWIVtyweopUN3xt3)
 - [CS106A](https://see.stanford.edu/Course/CS106A) **Programming Methodology** *Stanford University*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)
+
+## Programming Languages
+
+- [CS107](https://see.stanford.edu/Course/CS107) **Programming Paradigms** *Stanford University*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
