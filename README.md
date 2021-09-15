@@ -14,6 +14,11 @@ Some interesting computer science courses with video lectures.
 - [CS106B](https://see.stanford.edu/Course/CS106B) **Programming Abstractions** *Stanford University*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
 
+## Database Systems
+
+- [15-445/645](https://15445.courses.cs.cmu.edu/fall2019/) **Database Systems** *Carnegie Mellon University*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+
 ## Introduction to Computer Science
 
 - [6.00SC](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) **Introduction to Computer Science and Programming** *MIT*
