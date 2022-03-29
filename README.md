@@ -11,6 +11,8 @@ Some interesting computer science courses with video lectures.
 
 ## Data Structures and Algorithms
 
+- [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) **Introduction to Algorithms** *MIT*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PLYgOQCAper65TSRhALYGwFWehehqfrz2f)
 - [CS106B](https://see.stanford.edu/Course/CS106B) **Programming Abstractions** *Stanford University*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
 
