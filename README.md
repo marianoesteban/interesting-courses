@@ -2,6 +2,11 @@
 
 Some interesting computer science courses with video lectures.
 
+## Artificial Intelligence
+
+- [CS229](http://cs229.stanford.edu/syllabus-summer2019.html) **Machine Learning** *Stanford University*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+
 ## Compilers and Interpeters
 
 - [CS173](http://cs.brown.edu/courses/csci1730/2012/) **Programming Languages** *Brown University*
