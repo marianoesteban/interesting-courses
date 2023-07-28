@@ -25,6 +25,8 @@ Some interesting computer science courses with video lectures.
 
 - [15-445/645](https://15445.courses.cs.cmu.edu/fall2019/) **Database Systems** *Carnegie Mellon University*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+- [15-721](https://15721.courses.cs.cmu.edu/spring2020/) **Advanced Database Systems** *Carnegie Mellon University*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
 ## Introduction to Computer Science
 
