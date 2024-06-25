@@ -43,3 +43,8 @@ Some interesting computer science courses with video lectures.
 
 - [CS107](https://see.stanford.edu/Course/CS107) **Programming Paradigms** *Stanford University*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
+
+## Systems Optimization
+
+- [6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) **Performance Engineering of Software Systems** *MIT*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
