@@ -39,16 +39,16 @@ Some interesting computer science courses with video lectures.
 - [CS106A](https://see.stanford.edu/Course/CS106A) **Programming Methodology** *Stanford University*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)
 
-## Parallel Computing
-- [CS149](https://gfxcourses.stanford.edu/cs149/fall23) **Parallel Computing** *Stanford University*
-    - [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
-
 ## Programming Languages
 
 - [CS107](https://see.stanford.edu/Course/CS107) **Programming Paradigms** *Stanford University*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
-## Systems Optimization
+## Systems
 
 - [6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) **Performance Engineering of Software Systems** *MIT*
     - [Lecture Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [CS149](https://gfxcourses.stanford.edu/cs149/fall23) **Parallel Computing** *Stanford University*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
+- [CS377](https://tildesites.bowdoin.edu/~sbarker/teaching/courses/os/14spring/) **Operating Systems** *UMass Amherst*
+    - [Lecture Videos](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
